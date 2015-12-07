@@ -4,11 +4,3 @@
     width: 100%;
     padding-bottom: 100%;
 }
-
-.row {
-    position: absolute;
-    overflow: hidden;
-    margin: 5%;
-    width: 90%;
-    height: 90%;
-}
